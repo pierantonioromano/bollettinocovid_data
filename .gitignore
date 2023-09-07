@@ -1,0 +1,5 @@
+# We do not need PHP files
+*.php
+
+# Exclude unnecessary json
+latest_deploy_hook.json
